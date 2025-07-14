@@ -17,6 +17,14 @@ This tool helps users manage their local files through a simple and interactive 
 
 ---
 
+##  Demo
+
+> Below is a quick preview of how the file manager works in the terminal:
+
+![File Manager Demo](example.gif)
+
+---
+
 ## Technologies Used
 
 - **Python 3.11.6**
