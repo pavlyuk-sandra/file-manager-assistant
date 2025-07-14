@@ -28,3 +28,4 @@ This tool helps users manage their local files through a simple and interactive 
 ## Technologies Used
 
 - **Python 3.11.6**
+- **Standard libraries:** os, shutil, datetime
